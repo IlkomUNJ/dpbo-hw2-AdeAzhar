@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SCVt0OYF)
-Name: ................
+Name: Ade Azhar Firdaus
 
-NIM : ................
+NIM : 1313624059
 
 # Instruction
 1. Fill in your details
@@ -11,20 +11,27 @@ NIM : ................
 5. This assignment is due October 20th, 23:55 AM
 
 # Features Implemented (list all completed)
-1. ...............
-2. 
+1. Register sebagai buyer atau seller
+2. Login sebagai buyer atau seller
+3. Menu untuk buyer atau seller
+4. Manage item seperti (Register/Replenish/Discard)
+5. Barang yang paling poluler
+6. Loyal customer selama 1 bulan
+7. List transaksi
+8. Top buyer atau seller
 
 # Collaborators (The person you learned from)
-1. ..........
+1. Aqilah Andra Amagasaki
+2. Adri Lorenzo Patiaraja
 
 # Students (the person you taught to complete the assignments)
 1. ...........
 
 # AI Assistance
-AI Tools: .............
+AI Tools: Gemini ai
 
-Paid AI Plugin (state none, if not subscribed): .............
+Paid AI Plugin (state none, if not subscribed): none
 
-Total Prompts used (int estimate): .............
+Total Prompts used (int estimate): 20+ termasuk fix error
 
-Dominant prompt used for (seek solution / implement ideas) : ..............
+Dominant prompt used for (seek solution / implement ideas) : seek solution
